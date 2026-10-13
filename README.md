@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GenAI · Agentic AI · AI Agents — course repo
 
 Instructor: **Ajit Byru** · `ajitbyru@gmail.com` · github.com/byruajit
@@ -228,3 +229,7 @@ UPDATING.md                 how to update when git pull refuses
 pyproject.toml              pinned dependencies (uv sync)
 ```
 Modules are added as the course progresses (`module01/ … module14/`).
+=======
+# genai_agents_course
+Projects and notes from a Generative AI Agents course.
+>>>>>>> b4258d35d9bd92f4737b11b5b37ed3d5f150861b
